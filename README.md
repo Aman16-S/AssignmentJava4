@@ -2,7 +2,9 @@
 Rock Paper Scissors Game
 
 ##Project Description
-This is a simple Rock-Paper-Scissors game implemented in Java. The game allows the user to play against the computer in a loop until they decide to exit. The rules of the game are as follows:
+This is a simple Rock-Paper-Scissors game implemented in Java. The game allows the user to play against the computer in a loop until they decide to exit. 
+
+The rules of the game are as follows:
 
 Game Rules:
 1. The player chooses one of the three options: Scissors, Rock, or Paper.
